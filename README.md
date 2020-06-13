@@ -1,2 +1,2 @@
-# Reducing_Staff_Attrition_ML
+# Reducing Staff Attrition
 An R project that investigates the primary factors that impact and lead to high staff attrition rates.
